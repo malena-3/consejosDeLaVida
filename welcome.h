@@ -17,7 +17,7 @@ void welcome(string& bestfriend, int& chosenNum) //Welcome function
   char answer; //Variable declarations
 
   cout << endl;
-  cout << "Hola(≧∇≦)/ I'm your bestfriend ♡Computadora♡,"
+  cout << "Hola(≧∇≦)/ I'm your friend ♡Computadora♡,"
         << " Dora for short.\n" << "Today "
        << "I'll be giving you some pearls of wisdom(˶╹̆ ▿╹̆˵)و✧\n";
   cout << "★・・・・・・★・・・・・・★・・・・・・★" 
