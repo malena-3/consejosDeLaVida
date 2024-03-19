@@ -1,0 +1,5 @@
+void welcome(string& bestfriend, int& chosenNum);
+/*Precondition: bestfriend has the User's name and chosenNum has
+  the integer chosen by the User.
+  Postcondition: welcome gathers the User's name and their 
+  chosen number of type int which is between 1-20.*/ 
