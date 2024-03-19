@@ -63,3 +63,5 @@ void subjuntivos(int chosenNum, string bestfriend) //Subjuntivo Function with 10
 
     }
 }
+
+#endif
