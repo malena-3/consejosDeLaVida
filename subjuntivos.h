@@ -3,7 +3,6 @@
 
 #include<iostream>
 #include<string>
-#include<switch>
 using namespace std;
 
 void subjuntivos(int chosenNum, string bestfriend);
