@@ -9,6 +9,8 @@
 #include<iostream>
 #include<string>
 using namespace std;
+#include "mandatos.h"
+#include "subjuntivos.h"
 
 void welcome(string& bestfriend, int& chosenNum) //Welcome function
 {
